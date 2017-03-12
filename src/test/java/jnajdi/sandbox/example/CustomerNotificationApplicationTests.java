@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class JnSmbCh2CustomerNotificationApplicationTests {
+public class CustomerNotificationApplicationTests {
 
 	@Test
 	public void contextLoads() {
